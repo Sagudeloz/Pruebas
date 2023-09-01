@@ -1,13 +1,13 @@
 ﻿using Netbank.Application.Interfaces;
 using Netbank.Application.Mappers;
-using NetBank.Domain;
 using NetBank.Domain.Define;
 using NetBank.Domain.Dto;
 using NetBank.Domain.Interfaces.Repositories;
 using NetBank.Domain.Models;
 using NetBank.Utilities;
-using System.Linq;
 using static NetBank.Domain.Dto.IssuingNetworkData;
+using System.Linq;
+
 
 namespace Netbank.Application.Services;
 
@@ -18,7 +18,7 @@ public class CreditCardService : ICreditCardService
     private readonly IIssuingNetworkRepository _issuingNetworkRepository;
 
     // Regular Expression To Validate Only Numbers
-    private const string NUMBER_REGEX = "^[0-9]*$";
+    public const string NUMBER_REGEX = "^[0-9]*$";
 
     #endregion Loval-Vars
 
@@ -70,22 +70,14 @@ public class CreditCardService : ICreditCardService
 
     private static string? FindIssuingNetworkOwnerName(List<IssuingNetworkData> issuingNetworkDataList, string creditCardNumber)
     {
-        string? foundIssuingNetworkDataName = null;
-        foreach (IssuingNetworkData issuingNetworkData in issuingNetworkDataList)
-        {
-            if (issuingNetworkData.ValidateCreditCard(creditCardNumber))
-            {
-                foundIssuingNetworkDataName ??= issuingNetworkData.Name;
-                break;
-            }
-        }
-        return foundIssuingNetworkDataName;
+        var foundIssuingNetworkData = issuingNetworkDataList.Find(issuingNetworkData => issuingNetworkData.ValidateCreditCard(creditCardNumber));
+        return foundIssuingNetworkData?.Name;
     }
 
     private async Task<List<IssuingNetworkData>> LoadIssuingNetworkData()
     {
         List<IssuingNetwork> issuingNetworks = await this.GetIssuingNetworks();
-        List<IssuingNetworkData> issuingNetworkDataList = IssuingNetworkMapper.ToIssuingNetworkDataList(issuingNetworks);
+        List<IssuingNetworkData> issuingNetworkDataList = Mapper.ToIssuingNetworkDataList(issuingNetworks);
         // Convert Data to List Data
         return issuingNetworkDataList;
     }
