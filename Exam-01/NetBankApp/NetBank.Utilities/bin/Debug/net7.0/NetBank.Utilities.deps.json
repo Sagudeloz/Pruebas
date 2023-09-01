@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NetBank.Utilities/1.0.0": {
+        "dependencies": {
+          "NetBank.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NetBank.Utilities.dll": {}
+        }
+      },
+      "NetBank.Domain/1.0.0": {
+        "runtime": {
+          "NetBank.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetBank.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetBank.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

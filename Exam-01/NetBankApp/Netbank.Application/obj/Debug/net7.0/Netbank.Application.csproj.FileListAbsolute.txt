@@ -1,0 +1,17 @@
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\bin\Debug\net7.0\Netbank.Application.deps.json
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\bin\Debug\net7.0\Netbank.Application.dll
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\bin\Debug\net7.0\Netbank.Application.pdb
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\bin\Debug\net7.0\NetBank.Domain.dll
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\bin\Debug\net7.0\NetBank.Utilities.dll
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\bin\Debug\net7.0\NetBank.Domain.pdb
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\bin\Debug\net7.0\NetBank.Utilities.pdb
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\obj\Debug\net7.0\Netbank.Application.csproj.AssemblyReference.cache
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\obj\Debug\net7.0\Netbank.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\obj\Debug\net7.0\Netbank.Application.AssemblyInfoInputs.cache
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\obj\Debug\net7.0\Netbank.Application.AssemblyInfo.cs
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\obj\Debug\net7.0\Netbank.Application.csproj.CoreCompileInputs.cache
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\obj\Debug\net7.0\Netbank.Application.csproj.CopyComplete
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\obj\Debug\net7.0\Netbank.Application.dll
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\obj\Debug\net7.0\refint\Netbank.Application.dll
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\obj\Debug\net7.0\Netbank.Application.pdb
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\Netbank.Application\obj\Debug\net7.0\ref\Netbank.Application.dll

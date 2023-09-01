@@ -1,0 +1,11 @@
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\NetBank.Domain\bin\Debug\net7.0\NetBank.Domain.deps.json
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\NetBank.Domain\bin\Debug\net7.0\NetBank.Domain.dll
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\NetBank.Domain\bin\Debug\net7.0\NetBank.Domain.pdb
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\NetBank.Domain\obj\Debug\net7.0\NetBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\NetBank.Domain\obj\Debug\net7.0\NetBank.Domain.AssemblyInfoInputs.cache
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\NetBank.Domain\obj\Debug\net7.0\NetBank.Domain.AssemblyInfo.cs
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\NetBank.Domain\obj\Debug\net7.0\NetBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\NetBank.Domain\obj\Debug\net7.0\NetBank.Domain.dll
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\NetBank.Domain\obj\Debug\net7.0\refint\NetBank.Domain.dll
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\NetBank.Domain\obj\Debug\net7.0\NetBank.Domain.pdb
+C:\Users\agude\OneDrive\Escritorio\U\Servicios\ServicesDevelopment\Exams\Exam-01\NetBankApp\NetBank.Domain\obj\Debug\net7.0\ref\NetBank.Domain.dll
